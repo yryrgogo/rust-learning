@@ -1,5 +1,5 @@
 [package]
-name = "single-thread-web-server"
+name = "multi_thread"
 version = "0.1.0"
 edition = "2021"
 
